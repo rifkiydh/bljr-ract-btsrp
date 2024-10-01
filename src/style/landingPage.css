@@ -24,3 +24,20 @@
   background: url("../assets/bg/scifi.jpg");
   background-size: cover;
 }
+
+.superhero {
+  height: auto;
+  background: url("../assets/bg/spiderman.jpg");
+  background-size: cover;
+}
+
+.movieImage {
+  height: auto;
+  background-color: black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.images {
+  height: 500px;
+}
